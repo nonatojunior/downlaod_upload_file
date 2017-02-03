@@ -9,9 +9,5 @@ Este post prentende auxiliar a criação de upload/download de arquivos, ressalt
 Vamos ao que interessa...
 
 Segue link do blog com o tutorial: https://dicasrubyonrails.wordpress.com/2017/02/03/criando-uploaddownload-de-arquivos-manualmente-com-ruby-on-rails/# downlaod_upload_file
-<<<<<<< HEAD
-# downlaod_upload_file
-=======
->>>>>>> 5efa458753fcb9d409055b9b5ef461cfb8b37d6a
-# downlaod_upload_file
+
 # downlaod_upload_file
